@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_briefing"
+        android:icon="@drawable/ic_briefing"
+        android:title="@string/title_briefing" />
+
+    <item
+        android:id="@+id/navigation_speakers"
+        android:icon="@drawable/ic_speaker"
+        android:title="@string/title_speakers" />
+
+</menu>
